@@ -23,7 +23,7 @@ def export_json(df, dest):
 
 
 def twitter_transformation():
-    src = '/opt/airflow/datalake/Bronze/twitter_datascience/extract_date=2022-11-23/datascience_20221123.json'
+    src = '/opt/airflow/datalake/Bronze/twitter_datascience'
     dest = '/opt/airflow/data'
 
     df = spark.read.json(src)
