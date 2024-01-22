@@ -1,0 +1,8 @@
+venv
+__pycache__
+*.pyo
+.git
+*.pyc
+.ideia/
+.venv/
+.logs/
