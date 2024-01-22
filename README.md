@@ -21,15 +21,15 @@ docker-compose up -d
 ![scheme](images/conexao-spark2.png)</br>
 
 ### A primeira DAG irá fazer uma contagem de cada palavra de um texto </br>
-![scheme](images\primeiradag.png)</br>
+![scheme](images/primeiradag.png)</br>
 
 ### A primeira DAG irá fazer uma contagem de cada palavra de um texto </br>
-![scheme](images\primeiradag.png) </br>
+![scheme](images/primeiradag.png) </br>
 
 ### Retorno da DAG </br>
-![scheme](images\dag1.png) </br>
+![scheme](images/dag1.png) </br>
 
 
 ### Segunda Dag traz um exemplo de normalização de dados </br>
-![scheme](images\segundadag.png) </br>
+![scheme](images/segundadag.png) </br>
 
