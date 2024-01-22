@@ -23,7 +23,7 @@ docker-compose up -d
 ### A primeira DAG irá fazer uma contagem de cada palavra de um texto </br>
 ![scheme](images\primeiradag.png)<br/>
 
-### A primeira DAG irá fazer uma contagem de cada palavra de um texto </br>
+### A primeira DAG irá fazer uma contagem de cada palavra de um textos </br>
 ![scheme](images\primeiradag.png)<br/>
 
 ### Retorno da DAG </br>
