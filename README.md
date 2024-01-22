@@ -14,13 +14,12 @@ docker-compose up -d
 * Java
 * python
 * spark</br>
-![scheme](images/variaveis.png)</br>
-    
+![scheme](images/variaveis.png)</br>    
 
 ### Criando a conexão Spark no Airflow </br>
 ![scheme](images/conexao-spark2.png)</br>
 
-### A primeira DAG irá fazer uma contagem de cada palavra de um texto </br>
+### A primeira DAG irá fazer uma contagem de cada palavra de um texto</br>
 ![scheme](images/primeiradag.png)</br>
 
 ### A primeira DAG irá fazer uma contagem de cada palavra de um texto </br>
